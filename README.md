@@ -4,10 +4,10 @@ There should be no confusion between the work written by His Divine Grace Srila 
 
 TABLE OF CONTENTS
 
-Beyond Birth and Death - beyond_birth_death.txt 
-Bhagavad gita - bhagavad_gita.txt 
-Caitanya Cairtamrta - caitanya_caritamrta.txt 
-Easy Journey to Other Planets - easy_journey.txt
+Beyond Birth and Death - beyond_birth_death.txt    
+Bhagavad gita - bhagavad_gita.txt    
+Caitanya Cairtamrta - caitanya_caritamrta.txt    
+Easy Journey to Other Planets - easy_journey.txt    
 Elevation to Krsna - elevation_to_krsna.txt
 Sri Isopanishad - isopanishad.txt
 Krsna Book - krsna_book.txt
