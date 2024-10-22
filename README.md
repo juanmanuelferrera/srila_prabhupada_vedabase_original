@@ -12,7 +12,8 @@ Elevation to Krsna -> elevation_to_krsna.txt
 Sri Isopanishad -> isopanishad.txt       
 Krsna Book -> krsna_book.txt      
 Srila Prabhupada's Lectures (part 1) -> lectures_1.txt     
-Srila Prabhupada's Lectures (part 2) -> lectures_2.txt     
+Srila Prabhupada's Lectures (part 2) -> lectures_2.txt
+Letters 1947-1977 -> letters.txt     
 Life comes from Life -> life_comes_from_life.txt     
 Light of Bhagavata -> light_of_bhagavata.txt     
 Nectar of Devotion -> nectar_of_devotion.txt    
